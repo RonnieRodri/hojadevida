@@ -1,0 +1,26 @@
+# Hoja de vida
+
+## Datos basicos 
+
+### Informacion personal
+
+|Nombres | Apellidos | Cedula | Correo electronico | No telefono | Ciudad | Direccion |
+| --- | --- | --- | --- | --- | --- | --- | 
+|Ronnie David | Rodriguez Lara | 1081829665 | ronnier0828@gmail.com | 3005284344 | Fundacion | Calle 20 No. 8-56|
+
+### Referencias Familiares
+
+|Nombres | Apellidos | Ciudad | No telefono |
+| --- | --- | --- | --- |
+|Merlis | Lara | Fundacion | 3145066341 |
+|Ronnie | Rodriguez | Fundacion | 3103645151 |
+
+### Estudios academicos
+
+#### Primaria
+
+IED FUNDACION SEDE ANTONIO NARIÑO
+
+#### Secundaria
+
+IED FUNDACION
