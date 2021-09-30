@@ -1,5 +1,7 @@
 # Hoja de vida
 
+<img src="img/Cap4.png" width="100">
+
 ## Datos basicos 
 
 ### Informacion personal
