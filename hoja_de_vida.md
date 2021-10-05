@@ -26,3 +26,7 @@ IED FUNDACION SEDE ANTONIO NARIÑO
 #### Secundaria
 
 IED FUNDACION
+
+#### Experiencia laboral
+
+Ninguna
