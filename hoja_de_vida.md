@@ -30,3 +30,7 @@ IED FUNDACION
 #### Experiencia laboral
 
 Ninguna
+
+#### Cursos
+
+Asistencia 
